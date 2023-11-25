@@ -1,2 +1,0 @@
-# tafsiri
-Created with CodeSandbox
